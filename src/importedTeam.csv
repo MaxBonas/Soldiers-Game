@@ -1,0 +1,7 @@
+Class, id, name,  hp, isAlive, specialAtr, specialDmg
+Wizard, 0, 'Jaume', 85, true, 19, 23
+Wizard, 1, 'Ale', 89, true, 15, 43
+Warrior, 2, 'Jose', 73, true, 16, 30
+Wizard, 3, 'Iron', 43, true, 16, 39
+Warrior, 4, 'Hack', 68, true, 43, 59
+Warrior, 5, 'Teachers', 45, true, 32, 28
